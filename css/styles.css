@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+body {
+  background-color: #262626;
+  /* height: 1200px; */
+}
+main {
+  background-image: url("../img/wall.jpeg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  /* Altura | Largura */
+  /* height | width */
+  background-size: 130px 90px;
+  background-position: center center;
+  height: 100vh;
+}
+/* ! Voltamos as 21h02 */
+/* RGB */
+/* RED */
+/* GREEN */
+/* BLUE */
+h1 {
+  /* color: red; */
+  /* color: #ff0000; */
+  /* color: rgb(255, 0, 0); */
+  /* color: rgba(255, 0, 0, 0.1); */
+  /* color: #ff000019; */
+  color: #592796;
+  opacity: 0.9;
+  font-size: 20px;
+  font-weight: 700;
+}
+h2 {
+  font-size: 18px;
+}
+table {
+  width: 100%;
+}
+section {
+  color: #0025a3;
+}
+#segunda-section {
+  color: green;
+}
+.light-color {
+  color: #ffffff;
+}
+.dark-color {
+  color: #202020;
+}
+
+  
+  
